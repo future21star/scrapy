@@ -1,0 +1,15 @@
+setup.py
+babel/__init__.py
+babel/categoryids.py
+babel/items.py
+babel/pipelines.py
+babel/settings.py
+babel/spiders/__init__.py
+babel/spiders/expatriates_spider.py
+babel/spiders/gulfnews_spider.py
+babel/spiders/khaleej_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
